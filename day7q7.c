@@ -13,7 +13,7 @@ int fib(int n)
 
 int main()
 {
-    int n;
+    int n:
     
     scanf("%d", &n);       // take input
     
